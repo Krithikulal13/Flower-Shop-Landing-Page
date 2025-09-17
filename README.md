@@ -6,7 +6,7 @@ Built with **HTML5** and **CSS3**, this project provides a stylish hero section,
 
 ---
 
-##🌟 Features
+## 🌟 Features
 
 - Responsive navigation menu (Home, Shop, Product, Blog, Pages)  
 - Interactive icons for Search, Wishlist, and Cart  
