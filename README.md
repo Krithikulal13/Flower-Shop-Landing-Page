@@ -5,7 +5,6 @@ A modern and responsive landing page for a flower shop, designed to showcase fre
 Built with **HTML5** and **CSS3**, this project provides a stylish hero section, navigation menu, and call-to-action button.
 
 ---
-
 ## 🌟 Features
 
 - Responsive navigation menu (Home, Shop, Product, Blog, Pages)  
