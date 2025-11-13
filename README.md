@@ -1,4 +1,3 @@
-
 # 🌸 Floral Haven
 
 A modern and responsive landing page for a flower shop, designed to showcase fresh flowers and elegant arrangements.  
